@@ -12,7 +12,7 @@ title                    : "Lúcio Camara e Silva / Personal Site"
 title_separator          : "-"
 name                     : &name "Lúcio Camara e Silva"
 description              : &description "personal description"
-url                      : https://lportfolio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lportfolio.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ednaelxd/lportfolio.github.io"
 
@@ -21,7 +21,7 @@ repository               : "ednaelxd/lportfolio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "imagem_2024-07-16_141757048.png"
+  avatar           : "profile.png"
   name             : "Lúcio Camara e Silva"
   pronouns         : # example: "she/her"  
   bio              : "Professor do Magistério Superior"
