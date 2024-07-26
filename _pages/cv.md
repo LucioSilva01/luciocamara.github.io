@@ -11,53 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management Engineering, (2009~2011)
+* Master's in Management Engineering, (2008~2009)
+* Bachelor in Electrical and Electronic Engineering, (2002~2007)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Professor
+  * Federal University of Pernambuco, Nov 2011 -- Present
+* External Researcher at Department of Industrial Management Engineering
+  *University of Porto - Faculty of Engineering, 07/24/2023 -- 07/28/2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+Disciplines
+======
+* Post Graduation
+  * Operational Research
+* Graduation
+  * Statistics
+  * Linear Regression
+  * etc
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Scientific Production
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Master’s supervision completed 14
+* Bachelor’s supervision completed 3
+* Bachelor’s research initiatives (scientific initiation) completed 15
+* Ongoing Master’s supervision 2
+* Ongoing Bachelor’s supervision 3
+* Ongoing scientific initiation 2
   
-Talks
+Editorial Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Referee (reviewer): International Journal of Project Management, European Journal of Industrial Engineering, IEEE Transactions on Engineering Management, Resources Conservation and Recycling, Business Process Management Journal, Journal of Cleaner Production, IEEE Access, Sustainability
+* Development Project Reviewer: National Council for Scientific and Technological Development (CNPq); Foundation
+for the Support of Science and Technology of the State of Pernambuco (FACEPE); S ̃ao Paulo State Research Support
+Foundation (FAPESP)
   
-Teaching
+Awards and recognitions
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022 - Award for best article authored by a Doctorate Student in public Administration and Public Policies (Graduate
+* Program in Business Administration / University of Brasilia)
+* 2021 - Award for best article authored by a Master’s Student during the Aula Magna of the Postgraduate Program in Administration. (Graduate Program in Business Administration / University of Brasilia)
+* 2021 - Honorable Mention by the Brazilian Supreme Court (STF) - ADI 5460
+* 2020 - Honorable Mention by the Brazilian Supreme Court (STF) - ADI 5250
   
 Service and leadership
 ======
