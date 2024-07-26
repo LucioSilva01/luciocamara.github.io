@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic portfolio from Professor Lucio"
+title: "👋 `Academic portfolio from Professor Lucio`"
 author_profile: true
 redirect_from: 
   - /about/
