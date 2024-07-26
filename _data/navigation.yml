@@ -5,7 +5,7 @@ main:
     url: /cv/
     
   - title: "Publications"
-    url: https://scholar.google.com.br/citations?user=hXsIc_8AAAAJhl=pt-BRoi=ao
+    url: https://scholar.google.com/citations?user=hXsIc_8AAAAJ&hl=pt-BR&oi=ao
 
   # - title: "Talks"
   #   url: /talks/    
@@ -17,7 +17,7 @@ main:
     url: /portfolio/
 
   - title: "Lattes"
-    url: /files/lattes.xml
+    url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do
   # - title: "Blog Posts"
   #   url: /year-archive/
     
