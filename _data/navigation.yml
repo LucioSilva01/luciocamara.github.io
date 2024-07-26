@@ -15,7 +15,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Lattes"
+    url: /files/lattes.xml
   # - title: "Blog Posts"
   #   url: /year-archive/
     
