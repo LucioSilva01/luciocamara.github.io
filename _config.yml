@@ -12,7 +12,7 @@ title                    : "Lúcio Camara e Silva / Personal Site"
 title_separator          : "-"
 name                     : &name "Lúcio Camara e Silva"
 description              : &description "Professor pesquisador"
-url                      : https://ednaelxd.github.io/lportfolio.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lportfolio.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ednaelxd/lportfolio.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/LucioSilva01"
+  github           : "LucioSilva01"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
