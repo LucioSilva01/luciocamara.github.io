@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 `Academic portfolio from Professor Lucio`"
+title: "`Management Engineering, Ph.D`"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,11 +10,17 @@ redirect_from:
 <img src="images/CAA-Passarinho-ASCOM.jpg" alt="alt text" title="CAA" />
 
 
-Possui graduação em Engenharia Eletrônica pela Universidade Federal de Pernambuco (2008), mestrado (2009) e doutorado (2011) em Engenharia de Produção pela Universidade Federal de Pernambuco. Atualmente é professor Associado 2 da Universidade Federal de Pernambuco/CAA. Foi bolsista Produtividade em Pesquisa Nível 2 (2017-2023). Foi coordenador da Graduação em Engenharia de Produção (UFPE/CAA) (2015-2017) e do Programa de Pós-Graduação em Engenharia de Produção do Centro Acadêmico do Agreste (PPGEP/CAA) (2021-2022). Possui publicações em congressos nacionais e internacionais, capítulos de livros e artigos em periódicos científicos, a exemplo do International Journal of Project Management, Journal of Cleaner Production, Sustainability, International Journal of Information Management.Tem experiência na área de Engenharia de Produção, com ênfase em Pesquisa Operacional, atuando principalmente nos seguintes temas: Otimização de Sistemas, Análise Envoltória de Dados e Modelos Multicritério de Apoio a Decisão. É pesquisador nos grupos de pesquisa Research Group on Efficiency and Data Analysis (GEDAI - UFPE), Engenharia Econômica e Otimização Combinatória (GEEOC) e Grupo de Pesquisa em Sistemas de Informação e Decisão (GPSID). ResearcherID da Web of Science: IYJ-9658-2023 / Scopus Author Identifier: 57221476481 
-
-Portfolio description
+About Me
 ======
-This site was developed to ...
+
+I am an Associate Professor of Management Engineering at the Universidade Federal de Pernambuco since 2011. I earned my Ph.D. (2011) and Master’s  degree (2009) on Management Engineering from the Federal University of Pernambuco and Bachelor’s (2009) degree from Electronic Engineering from the Federal University of Pernambuco
+
+Research Focus
+======
+
+My academic experiences are in the field of Management Engineering, with an emphasis on Operational Research, working mainly on the following topics: Data Science, Systems Optimization, Data Envelopment Analysis and Multicriteria Decision Support Models. My academic interests are intersections between Sustainability, Circular Economy and Public Security.
+For more details about my research, publications, and academic journey, please explore the Research section, Teaching section, and refer to my CV.
+
 
 Research Grants
 ======
