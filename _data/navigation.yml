@@ -4,7 +4,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
+  - title: "Research"
     url: https://scholar.google.com/citations?user=hXsIc_8AAAAJ&hl=pt-BR&oi=ao
 
   # - title: "Talks"
@@ -15,9 +15,12 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-
-  - title: "Lattes"
-    url: http://lattes.cnpq.br/9306977460682234
+    
+  - title: "CV"
+    url: /cv/
+    
+  #- title: "Lattes"
+  #  url: http://lattes.cnpq.br/9306977460682234
   # - title: "Blog Posts"
   #   url: /year-archive/
     
