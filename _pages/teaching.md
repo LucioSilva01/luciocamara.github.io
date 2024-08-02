@@ -12,5 +12,5 @@ Universidade Federal de Pernambuco
 
 -  Probabilidade e Estatística (Graduação)
 -  Análise de Regressão para Produção (Graduação)
--  Pesquisa Operacional (Pós-G	raduação)
+-  Pesquisa Operacional (Pós-Graduação)
 
