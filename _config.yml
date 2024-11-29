@@ -27,15 +27,15 @@ author:
   bio              : "Professor do Magistério Superior"
   location         : "Recife - PE"
   employer         : "Federal University of Pernambuco"
-  uri              : # URL
+  uri              : "http://lattes.cnpq.br/9306977460682234"
   email            : "lucio.silva@ufpe.br" 
 
   # Academic websites
-  lattes           : "http://lattes.cnpq.br/9306977460682234"
+  lattes           : #"http://lattes.cnpq.br/9306977460682234"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=hXsIc_8AAAAJ&hl=pt-BR&oi=ao"
   impactstory      : # URL
-  orcid            : "http://lattes.cnpq.br/9306977460682234"
+  orcid            : #
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
