@@ -14,7 +14,7 @@ name                     : &name "Lúcio Camara e Silva"
 description              : &description "Professor pesquisador"
 url                      : https://LucioSilva01.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/LucioSilva01/luciocamara.github.io"
+repository               : "https://github.com/LucioSilva01/site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
