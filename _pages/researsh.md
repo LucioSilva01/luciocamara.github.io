@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Research Grants"
 permalink: /researsh/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Research Grants
-======
+
 * CNPq Research Fellow in Engineering - (Rank 2)
   * This is a research award reserved for the top scientists and scholars in Brazil
 * Edital CNPq/MCTI N 10/2023
