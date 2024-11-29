@@ -12,7 +12,7 @@ title                    : "Lúcio Camara e Silva / Personal Site"
 title_separator          : "-"
 name                     : &name "Lúcio Camara e Silva"
 description              : &description "Professor pesquisador"
-url                      : https://LucioSilva01.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://luciosilva.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/LucioSilva01/site"
 
